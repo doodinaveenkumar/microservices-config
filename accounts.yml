@@ -1,0 +1,13 @@
+#spring.application.name=accounts
+
+build:
+  version: "3.0"
+
+accounts:
+  message: "Welcome to TrueBank accounts related local APIs"
+  contactDetails:
+    name: "Naveen Kumar - Developer"
+    email: "naveen.kumar@email.com"
+  onCallSupport:
+    - (91)9876543210
+    - (91)0987654321

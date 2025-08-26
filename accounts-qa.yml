@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+accounts:
+  message: "Welcome to TrueBank accounts related QA APIs"
+  contactDetails:
+    name: "Naveen Kumar - QA Lead"
+    email: "naveen.kumar@email.com"
+  onCallSupport:
+    - (91)9876543210
+    - (91)0987654321
