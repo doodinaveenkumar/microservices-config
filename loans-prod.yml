@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 loans:
-  message: "Welcome to TrueBank loans related Prod APIs "
+  message: "Welcome to TrueBank loans related production APIs "
   contactDetails:
     name: "Naveen Kumar- Product Owner"
     email: "naveen.kumar@truebank.com"
