@@ -2,10 +2,11 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to TrueBank accounts related prod APIs"
+  message: "Welcome to TrueBank accounts related production APIs"
   contactDetails:
     name: "Naveen Kumar - Product Owner"
     email: "naveen.kumar@email.com"
   onCallSupport:
     - (91)9876543210
+
     - (91)0987654321
